@@ -1,1 +1,1 @@
-github + pages + S1-Team8 = ???
+'https://{common-man-i-thought-we-were-friends}.github.io/ctf1/'
